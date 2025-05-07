@@ -7,5 +7,5 @@
 let hire=document.getElementById("hire");
 hire.addEventListener("click", function()
 {
-    echo="thank you";
+    console.log("thank you");
 })
